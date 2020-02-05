@@ -1,0 +1,5 @@
+dataSourceClassName: com.mysql.jdbc.Driver
+jdbcUrl: jdbc:mysql://localhost:3306/world
+dataSource:
+  user: root
+  password: root
